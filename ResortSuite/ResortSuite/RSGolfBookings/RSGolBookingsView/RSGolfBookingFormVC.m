@@ -128,11 +128,15 @@ static NSMutableString *golfSelectedDate ;  //to save the selected date
 	
 	
 	UIImage *disabledCheckImage  = [UIImage imageNamed:Disabled_Availibility_button];
-	UIImage *enabledCheckImage  = [UIImage imageNamed:Enabled_Availibility_button];
+	//UIImage *enabledCheckImage  = [UIImage imageNamed:Enabled_Availibility_button];
+    UIImage *enabledCheckImage  = [UIImage imageNamed:Enabled_button];
 	
 	[checkAvailButton setBackgroundImage:disabledCheckImage forState:UIControlStateDisabled];
 	[checkAvailButton setBackgroundImage:enabledCheckImage forState:UIControlStateNormal];
-	
+	[checkAvailButton setTitle:Enabled_Availibility_button_Titel forState:UIControlStateNormal];
+    [checkAvailButton setTitleColor:[UIColor whiteColor] forState:UIControlStateNormal];
+    [checkAvailButton.titleLabel setFont:[UIFont fontWithName:@"Helvetica" size:21]];
+    
 	[self.view addSubview:checkAvailButton];
 	[checkAvailButton release];
     

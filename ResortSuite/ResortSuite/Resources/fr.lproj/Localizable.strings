@@ -370,4 +370,5 @@
 "GuaranteedBookingMessage" = "fr_Booking Confirmed - Your booking is successful. To make another booking, please select another from below:";
 "UnGuaranteedBookingMessage" = "fr_A tentative booking has been made for you. To confirm your booking kindly contact us to provide us with your credit card information to guarantee your booking.";
 
-
+//Button text
+"Enabled_Availibility_button_Titel" = "fr_Check Availability";

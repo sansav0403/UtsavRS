@@ -366,3 +366,6 @@
 //My Itinerary Title :
 "Hotel_Transportation_Title" = "Transportation";
 //---------------------------------------------------------------------//
+
+// Button Text
+"Enabled_Availibility_button_Titel" = "Check Availability";

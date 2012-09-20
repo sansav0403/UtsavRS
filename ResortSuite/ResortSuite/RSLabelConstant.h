@@ -358,3 +358,17 @@ enum accountCount
 #define GuaranteeStatusValueForNo           [RSLocalizationManager localizedStringForKey:@"GuaranteeStatusValueForNo"]//N"
 #define GuaranteedBookingMessage            [RSLocalizationManager localizedStringForKey:@"GuaranteedBookingMessage"]//Booking Confirmed - Your booking is successful. To make another booking, please select another from below:"
 #define UnGuaranteedBookingMessage          [RSLocalizationManager localizedStringForKey:@"UnGuaranteedBookingMessage"]//A tentative booking has been made for you. To confirm your booking kindly contact us to provide us with your credit card information to guarantee your booking."
+
+
+//Button Text
+#define Enabled_Availibility_button_Titel         [RSLocalizationManager localizedStringForKey:@"Enabled_Availibility_button_Titel"]//@"Check Availability"
+
+
+
+
+
+
+
+
+
+

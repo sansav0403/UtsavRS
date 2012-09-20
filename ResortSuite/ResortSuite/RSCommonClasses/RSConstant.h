@@ -298,6 +298,10 @@ enum Weeday {
 
 #pragma mark- Long Buttons
 
+
+#define Enabled_button         @"enabled.png"
+#define Disabled_button        @"disabled.png"
+
 #define Enabled_Availibility_button         @"enabled_CheckAvailability.png"
 #define Disabled_Availibility_button        @"disabled_check_availability.png"
 
