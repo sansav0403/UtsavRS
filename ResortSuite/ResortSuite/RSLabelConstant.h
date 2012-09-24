@@ -291,6 +291,11 @@ enum accountCount
 #define GolfBookingFormNoOfPlayer               [RSLocalizationManager localizedStringForKey:@"GolfBookingFormNoOfPlayer"]//No. of Player"
 #define ConfirmGolfBookDetailheader             [RSLocalizationManager localizedStringForKey:@"ConfirmGolfBookDetailheader"]//Confirm Detail And Book Now"
 #define kBook_Title [RSLocalizationManager localizedStringForKey:@"kBook_Title"]
+#define KBookNow_Title [RSLocalizationManager localizedStringForKey:@"KBookNow_Title"]
+#define kDateTitle [RSLocalizationManager localizedStringForKey:@"kDateTitle"]
+#define kTeeTimeTitle [RSLocalizationManager localizedStringForKey:@"kTeeTimeTitle"]
+#define kOf_Players_Title [RSLocalizationManager localizedStringForKey:@"kOf_Players_Title"]
+#define kPricePerPlayerTitle [RSLocalizationManager localizedStringForKey:@"kPricePerPlayerTitle"]
 
 
 //
@@ -300,7 +305,7 @@ enum accountCount
 #define SpaAvailableTimeText                  [RSLocalizationManager localizedStringForKey:@"SpaAvailableTimeText"]//The requested time slot is not available,  Please select the following alternate time."
 //golf select players
 #define NoOfPlayerCellText          [RSLocalizationManager localizedStringForKey:@"NoOfPlayerCellText"]//No Of Players"
-#define DefaultNoOfPlayers          [RSLocalizationManager localizedStringForKey:@"DefaultNoOfPlayers"]//2"
+#define DefaultNoOfPlayers          @"2"//[RSLocalizationManager localizedStringForKey:@"DefaultNoOfPlayers"]//2"
 /********************************************************************/
 #pragma mark - Login action sheet view
 #define loginOption_screen_title            [RSLocalizationManager localizedStringForKey:@"loginOption_screen_title"]//Sign In"

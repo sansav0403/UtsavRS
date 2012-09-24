@@ -266,6 +266,12 @@
 "GolfBookingFormNoOfPlayer" = "No. of Player";
 "ConfirmGolfBookDetailheader" = "Confirm Detail And Book Now";
 "kBook_Title" = "Book";
+"KBookNow_Title" = "Book Now";
+"kDateTitle" = "Date";
+"kTeeTimeTitle" = "Tee Time";
+"kOf_Players_Title" = "# of Players";
+"kPricePerPlayerTitle" = "Price per Player";
+
 
 //
 "ConfirmBooking_ViewTilte" = "Confirm Booking";
@@ -274,7 +280,7 @@
 "SpaAvailableTimeText" = "The requested time slot is not available,  Please select the following alternate time.";
 //golf select players
 "NoOfPlayerCellText" = "No Of Players";
-"DefaultNoOfPlayers" = "2";
+
 //----------------------------------------------//
 //------- Login action sheet view
 "loginOption_screen_title" = "Sign In";

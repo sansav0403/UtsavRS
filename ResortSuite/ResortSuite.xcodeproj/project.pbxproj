@@ -2609,7 +2609,6 @@
 		6DBFB57114A9EB5100E26D6F /* change_small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = change_small.png; sourceTree = "<group>"; };
 		6DBFB57214A9EB5100E26D6F /* done_small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = done_small.png; sourceTree = "<group>"; };
 		6DBFB57314A9EB5100E26D6F /* reset_small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = reset_small.png; sourceTree = "<group>"; };
-		6DC04E0C155A355B00F422FC /* ResortSuite_Club_SecondStatic_MyAccount copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "ResortSuite_Club_SecondStatic_MyAccount copy-Info.plist"; path = "/Users/cybage/Desktop/RS iPhone Project/ResortSuite/ResortSuite_Club_SecondStatic_MyAccount copy-Info.plist"; sourceTree = "<absolute>"; };
 		6DCD6ABC14D69B6F003ADA4E /* Radio_button_on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Radio_button_on.png; sourceTree = "<group>"; };
 		6DCD6ABD14D69B6F003ADA4E /* Radio_button_off.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Radio_button_off.png; sourceTree = "<group>"; };
 		6DE04FC6149F6BAB000CD7A7 /* RSMGDateSelectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RSMGDateSelectionViewController.h; sourceTree = "<group>"; };
@@ -3746,7 +3745,6 @@
 				D211D6C0138E547B005F4B53 /* ResortSuite */,
 				D211D6B9138E547B005F4B53 /* Frameworks */,
 				D211D6B7138E547B005F4B53 /* Products */,
-				6DC04E0C155A355B00F422FC /* ResortSuite_Club_SecondStatic_MyAccount copy-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};

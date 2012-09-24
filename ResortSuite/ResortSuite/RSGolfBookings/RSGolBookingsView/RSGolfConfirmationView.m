@@ -252,14 +252,28 @@
 -(void)createMainBodyLabelArray
 {
     DLog(@"values datestrin %@ timestring %@ no of player = %@ golfrate  = %@",dateString,timeString,self.selectedPlayers,[self.golfRate price]);
-   
+    NSString *date = [NSString stringWithFormat:@"%@ :",kDateTitle];
+    NSString *teeTime = [NSString stringWithFormat:@"%@ :",kTeeTimeTitle];
+    NSString *players = [NSString stringWithFormat:@"%@ :",kOf_Players_Title];
+    NSString *pricePerLayer = [NSString stringWithFormat:@"%@ :",kPricePerPlayerTitle];
+    
+    
     NSMutableArray *staticLabelTexts = [[[NSMutableArray alloc]initWithObjects:
-                                         @"Date :",
-                                         @"Tee Time :"
-                                         ,@"# of Players :"
-                                         ,@"Price per Player :"
+                                         date,
+                                         teeTime
+                                         ,players
+                                         ,pricePerLayer
                                          ,nil
                                          ]autorelease];
+    /*
+     NSMutableArray *staticLabelTexts = [[[NSMutableArray alloc]initWithObjects:
+     @"Date :",
+     @"Tee Time :"
+     ,@"# of Players :"
+     ,@"Price per Player :"
+     ,nil
+     ]autorelease];
+     */
     
     NSMutableArray *DynamicLabelTexts = [[[NSMutableArray alloc]initWithObjects:
                                           dateString,
@@ -288,11 +302,15 @@
 {
     // add booking button note new y is already calculated
 	
-	UIImage *BookNowBtnImage  = [UIImage imageNamed:Enabled_Book_button];
+	//UIImage *BookNowBtnImage  = [UIImage imageNamed:Enabled_Book_button];
+    UIImage *BookNowBtnImage  = [UIImage imageNamed:kEnabled_Button_img];
 	
     UIButton *bookButton = [[UIButton alloc] initWithFrame: CGRectMake(actionButtonXcord, actionButtonYcord, actionButtonWidth, actionButtonHeight)]; 
 	[bookButton setBackgroundImage:BookNowBtnImage forState:UIControlStateNormal];
-	
+	[bookButton setTitle:KBookNow_Title forState:UIControlStateNormal];
+    [bookButton.titleLabel setFont:[UIFont fontWithName:@"Helvetica" size:21]];
+    [bookButton titleLabel].shadowOffset = CGSizeMake(0, 1);
+    
     [bookButton addTarget:self action:@selector(bookAction) forControlEvents:UIControlEventTouchUpInside];
     [self.view addSubview:bookButton];
 	[bookButton release];
