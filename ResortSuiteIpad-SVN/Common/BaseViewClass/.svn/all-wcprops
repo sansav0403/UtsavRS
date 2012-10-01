@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Mobile-COE/!svn/ver/7957/ResortSuite/iPad/ResortSuite/trunk/Common/BaseViewClass
+END
+BaseView.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Mobile-COE/!svn/ver/7761/ResortSuite/iPad/ResortSuite/trunk/Common/BaseViewClass/BaseView.h
+END
+RSLoadingView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Mobile-COE/!svn/ver/7664/ResortSuite/iPad/ResortSuite/trunk/Common/BaseViewClass/RSLoadingView.xib
+END
+BaseView.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Mobile-COE/!svn/ver/7957/ResortSuite/iPad/ResortSuite/trunk/Common/BaseViewClass/BaseView.m
+END
+View.xib
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Mobile-COE/!svn/ver/7664/ResortSuite/iPad/ResortSuite/trunk/Common/BaseViewClass/View.xib
+END
+RSLoadingView.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Mobile-COE/!svn/ver/7710/ResortSuite/iPad/ResortSuite/trunk/Common/BaseViewClass/RSLoadingView.h
+END
+RSLoadingView.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Mobile-COE/!svn/ver/7710/ResortSuite/iPad/ResortSuite/trunk/Common/BaseViewClass/RSLoadingView.m
+END
