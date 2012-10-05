@@ -1,37 +1,0 @@
-10
-
-dir
-11460
-https://mobile-svn.cybage.com/svn/Mobile-COE/ResortSuite/iPad/ResortSuite/trunk/Self-Itinerary
-https://mobile-svn.cybage.com/svn/Mobile-COE
-
-
-
-2012-08-30T11:58:08.162927Z
-11007
-sandeeppar
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-d1136430-c636-f348-b4e1-fb4d10741f68
-
-Itinerary Model Class
-dir
-
-Itinerary Parser
-dir
-
-Itinerary ViewControllers
-dir
-
