@@ -1,0 +1,40 @@
+10
+
+dir
+11523
+https://mobile-svn.cybage.com/svn/Mobile-COE/ResortSuite/iPad/ResortSuite/trunk/Booking
+https://mobile-svn.cybage.com/svn/Mobile-COE
+
+
+
+2012-09-18T12:25:10.437927Z
+11223
+sandeeppar
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d1136430-c636-f348-b4e1-fb4d10741f68
+
+BookingViewControllers
+dir
+
+Class Booking
+dir
+
+Golf Booking
+dir
+
+Spa Booking
+dir
+
