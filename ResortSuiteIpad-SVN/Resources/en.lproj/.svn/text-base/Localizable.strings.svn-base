@@ -1,0 +1,490 @@
+/* 
+  Localizable.strings
+  ResortSuite
+
+  Created by Cybage on 9/5/12.
+  Copyright (c) 2012 Cybage. All rights reserved.
+*/
+
+// --------- RSLabelConstant ----------------------------
+        //--- Home Page ---//
+"RSHomeTabTitle" = "Home";
+"RSMyHotelTabTitle" = "My Hotel";
+"RSMyClubTabTitle"  = "My Club";
+"RSHotelSelfTabTitle" = "Self";
+"RSClubItineraryTabTitle" = "My Itinerary";
+"RSHotelMyGroupTabTitle" = "My Group";
+"RSClubMyAccountTabTitle" = "My Account";
+"RSBookingTabTitle" = "Book";
+"RSStaticTabTitle" = "My Static";
+"RsGallaryTitle" = "Gallery";
+
+//----------------------------------------------//
+// ------ Pop up Error messages
+"POPUP_ConnectionError" = "Error in connection";
+"POPUP_ConnectionError_text" = "Please Check your network connection";
+
+
+"POPUP_Sign_Out" = "Sign Out";
+"POPUP_Sign_Out_Text" = "Do you want to sign out?";
+"POPUP_Offline_Mode " = "Offline Mode";
+"POPUP_Offline_Content" = "A network connection cannot be detected.  Offline content may be out of date.";			
+"POPUP_Offline_Content_Unavailable" = "A network connection cannot be detected. Content not available in offline mode.";			
+
+"POPUP_Meeting_Data_Unavailable" = "You have no group meetings to display";
+
+
+"POPUP_Invalid_Email" = "Invalid Email Address and/or Password";
+"POPUP_Invalid_Request" = "Invalid request. Missing reservation or customer credentials.";
+"POPUP_Invalid_GuestPin" = "Invalid guest pin for PMSFolioId";
+"POPUP_Invalid_FolioId" = "Invalid PMSFolioId";
+"POPUP_Start_End_Date" = "End date should be greater than Start date";
+"POPUP_Enter_Date" = "Please enter start date or/and end date";
+"POPUP_No_Bookings" = "There are no bookings for the selected date range";
+"POPUP_Server_Unavailable" = "Server not available. Please try again later.";
+"POPUP_No_Network" = "No network available";
+"POPUP_Select_Service" = "Please select service first";
+"POPUP_Select_Date" = "Please select date first";
+"POPUP_Activity_Data_Unavailable" = "No data available for requested activity";
+"POPUP_Service_Unavailable" = "Requested service is not available. Please select an alternative day or time.";
+"POPUP_Class_Already_Booked" = "You are already booked for a class or service during the requested date and time. Please select another date and/or time.";
+"POPUP_Change_Search" = "No available appointments. Change your search criteria and try again.";
+
+"POPUP_Tee_Times" = "No tee times available";
+"POPUP_Tee_Times_Text" = "Please select another time";
+
+"POPUP_Booking_Unavailable" = "You have no bookings to display";
+"POPUP_No_MemberShip" = "No Memebership found for the Guest";
+
+"POPUP_Button_Ok" = "Ok";
+"POPUP_Button_Cancel" = "Cancel";
+
+"kPOPUP_Guarantee_Required" = "We cannot complete your booking at this time as your account is not cinfigured with a valid guarantee. \n\nPlease contact us so we can update your account.";
+//----------------------------------------------//
+
+//------- Login action sheet view
+
+"CHANGE_PASSWORD_VIEW_TITLE" = "Change Password";
+"FORGOT_PASSWORD_VIEW_TITLE" = "Forgot Password";
+"New_user_viewtitle" = "New User";
+"VerifyEmail_viewtitle" = "Verify Email";
+
+"kEnterNewPassword_TITLE" = "enter new Password";
+"kEnterPassword_TITLE" = "enter Password";
+
+//----------------------------------------------//
+// ------- user registration screen alert messages
+
+"ALERT_OK_TITLE" = "OK";
+
+// Validation variables
+
+"alertTitleForInvalidText" = "Enter valid Information";
+"alertMessageForInvalidText" = "Field cannot be empty";
+
+"alertMessageForEmptyGender" = "Please enter your Gender";
+
+"alertMessageForValidSalutation" = "Please enter appropriate salutation";
+
+"alertTitleForInvalidEmailAddress" = "Invalid Email Address";
+"alertMessageForInvalidEmailAddress" = "Enter a valid email address";
+
+"alertTitleForUnmatchedEmail" = "Unmatched Email Address";
+"alertMessageForUnmatchedEmail" = "Enter the same email address for confirmation";
+
+"alertTitleForImproperPassord" = "Invalid Password";
+"alertMessageForImproperPassord" = "Password must be of atleast %d length" ;//%d represents the requird length of the password
+
+"alertTitleForUnmatchedPassword" = "Password Not Confirmed";
+"alertMessageForUnmatchedPassword" = "Enter the same Password as above";
+
+"alertTitleForAtleastOnePhoneNumber" = "Contact number";
+"alertMessageForAtleastOnePhoneNumber" = "Please enter atleast one contact number";
+
+"alertMessageForPassWordResset" = "You will receive an email with your new password";
+
+"alertMessageForUserCreated" = "Your account has been successfully created";
+//--------------------------------------------------------//
+
+// ---------- Account Views Title
+"AccountList_ViewTilte" = "Account's List";
+"Club_MyActivity" = "My Activity";
+"ChargeDetail_ViewTilte" = "Charge Detail";
+"BillingPeriod_ViewTilte" = "Billing Periods";
+"BillingPeriod_Current" = "Current";
+"BillingPeriod_Last" = "Last";
+"BillingPeriod_Previous" = "Previous";
+
+"StatementOptions_ViewTilte" = "Statement Options";
+"PreviousBilling_ViewTilte" = "Previous Billing Periods";
+"Club_ViewProfile" = "View Profile";
+"Club_ViewStatement" = "View Statement";
+
+"Club_Profile" = "Profile";
+
+"Club_Summary" = "Summary";
+"Club_Charges" = "Charges";
+"Club_Payments" = "Payments";
+
+
+//Summary page screen text
+"AccountSummaryHeader " = "Account Summary";
+"AccountAgedBalanceHeader" = "Aged Balance Summary";
+
+"AccountNumber" = "Account #:";
+"AccountType" = "Account Type:";
+"AccountQwner" = "Account Owner:";
+"AccountMemberShipCount" = "Member #:";
+"AccountMemberShipID" = "Member Id:";
+"AccountMemberShipLevel" = "Member Level:";
+
+"AccountStatementperiod" = "Statement Period:";
+"AccountpreviousBalance" = "Previous Balance:";
+"AccountPayments" = "Payments:";
+"AccountNewCharges" = "New Charges:";
+"AccountBalance" = "Account Balance:";
+
+"AccountCurrentBalance" = "Current Balance:";
+"AccountCurrent30dayBalance" = "30 Day Balance:";
+"AccountCurrent60dayBalance" = "60 Day Balance:";
+"AccountCurrent90dayBalance" = "90 Day Balance:";
+
+//profile screen
+
+"AccountDetailHeader" = "Account Details";
+"CurrentMembershipHeader" = "Current Memberships";
+"AccountCustomerHeader" = "Account Customers";
+
+"AccountAddressStaticText" = "Address:";
+"AccountPhoneStaticText" = "Phone:";
+
+
+"MembershipType" = "Type:";
+"MembershipName" = "Member:";
+"MembershipStatus" = "Status:";
+"MembershipEffectiveDate" = "Effective Date:";
+"MembershipExpiryDate" = "Expiry Date:";
+
+"AccountName" = "Name:";
+
+//charge and payment
+"Charge_PaymentDateTitle" = "Date";
+"Charge_PaymentAmountTitle" = "Amount";
+"ChargeDescriptionTitle" = "Description";
+"PaymentTypeTitle" = "Payment Type";
+
+"TotalChargeText" = "Total Charge";
+"TotalPaymentText" = "Total Payment";
+
+//account statement option labels
+"AccOption_Chargesection_Title" = "Account Charges";
+"AccOption_Paymentsection_Title" = "Account Payments";
+"AccOption_Accountnum" = "Account #:";
+"AccOption_AccountType" = "Account Type:";
+"AccOption_AccountOwner" = "Account Owner:";
+"AccOption_StatementPeriod" = "Statement Period:";
+
+
+
+//----------------------------------------------//
+//---------- My Itinerary/Group Views Title
+
+"MyItitnerary_ViewTite" = "My Itinerary";
+"AllFutureBooking_CellTitle" = "All Future Bookings";
+"SpecificDate_CellTitle" = "Specific Dates";
+"SelectDates_ViewTitle" = "Select Dates";
+"SelectDuration_viewTitle" = "Select Duration";
+
+"ItineraryCategory_ByDate" = "By Date";
+"ItineraryCategory_ByCategory" = "By Category";
+"ItineraryCategory_ByAll" = "All";
+//-------- My Group Views Title
+"MyGroup_ViewTilte" = "My Group";
+//Duration selection in group and Itinerary
+"DurationSelection_Start" = "Starts";
+"DurationSelection_Ends" = "Ends";
+//Itinerary desccription view labels
+"Hotel_Reservation" = "Reservation :";
+"Hotel_Arival_Date" = "Arival Date :";
+"Hotel_Departure_Date" = "Departure Date :";
+"Hotel_Total_Guest" = "Total Guest(s) :";
+"Hotel_Room_Number" = "Room Number :";
+
+//----------------------------------------------//
+//----- Booking Views Title
+"NoBookingMessage" = "We are currently not accepting mobile reservation at this time.";
+
+"Book_ViewTilte" = "Book Menu";
+"GolfLocation_ViewTilte" = "Golf Locations";
+"GolfCourse_ViewTilte" = "Golf Course";
+"BookGolf_ViewTilte" = "Book Golf";
+
+//
+"ClassActivityCellText" = "Class/Activity";
+//spa booking form cell text
+"SpaBookingFormService" = "Service";
+"SpaBookingFormDate" = "Date";
+"SpaBookingFormTime" = "Time";
+"SpaBookingFormStafGender" = "Pref. Staff Gender";
+"SpaBookingFormStaff" = "Pref. Staff";
+"SpaBookingNoPref" = "No Pref.";
+
+//spa service confirmation view text
+"SpaConfirmationView_Service" = "Service:";
+"SpaConfirmationView_Date" = "Date:";
+"SpaConfirmationView_Time" = "Time:";
+"SpaConfirmationView_Duration" = "Duration(min):";
+"SpaConfirmationView_Price" = "Price:";
+"SpaConfirmationView_Description" = "Description:";
+
+//Golf Booking Form
+"GolfBookingFormDate" = "Date";
+"GolfBookingFormPrefTeeTime" = "Pref. Tee Time";
+"GolfBookingFormNoOfPlayer" = "No. of Player";
+"ConfirmGolfBookDetailheader" = "Confirm Detail And Book Now";
+"kBook_Title" = "Book";
+"KBookNow_Title" = "Book Now";
+"kTeeTimeTitle" = "Tee Time";
+"kOf_Players_Title" = "# of Players";
+"kPricePerPlayerTitle" = "Price per Player";
+"pleaseSelectText" = "   Please select";
+"searchResultText" = "  Search Results";
+"SpaAvailableTimeText" = "The requested time slot is not available,  Please select the following alternate time.";
+//golf select players
+"NoOfPlayerCellText" = "No Of Players";
+"DefaultNoOfPlayers" = "2";
+
+"Gender_Male" = "Male";
+"Gender_Female" = "Female";
+"Gender_No_answer" = "No answer";
+
+// New User registration
+"Salutation_Mr" = "Mr.";
+"Salutation_Ms" = "Ms.";
+"Salutation_Mrs" =  "Mrs.";
+"Salutation_Miss" =  "Miss.";
+"Salutation_Dr" =  "Dr.";
+"Salutation_Mr_Mrs" = "Mr. & Mrs.";
+
+#pragma mark - Description view Texts
+"DescClass_activityText" = "Class/Activity :"
+"DescDescriptionText" = "Description :"
+"DescNoOfClassText" = "# of Classes :"
+"DescStartTimeText" = "Start Time :"
+"DescDate" = "Date :";
+"DescDurationText" = "Duration(min) :"
+"DescPriceText" = "Price :"
+"DescClientInstruction" = "Client Instructions :"
+
+//event / spa description text
+"DescLocationText" = "Location :"
+"DescServiceText" = "Service :"
+"DescTimeText" = "Time :"
+"DescPerformedByText" = "Performed By :"
+"DescRoomText" = "Room :"
+//golf description
+"DescGolfCourseText" = "Course :"
+"DescGolfteeTimeText" = "Tee-Time :"
+
+//dining desc
+"DescDininigVenueText" = "Venue :"
+"DescDetailText" = "detail :"
+
+//Departure description
+"DescDepartureLocationText" = "Departure Location :"
+"DescDepartureTimeText" = "Departure Time :"
+"DescArrivalLocationText" = "Arrival Location :"
+"DescArrivalTimeText" = "Arrival Time :"
+
+//--- New User Form
+"kWarning_Title" = "Warning"; 
+"kAlertForInvalidPhoneNumber__Message" = "Please Enter correct contact no.";
+
+//DateSelectinVC
+"kDateTitle" = "Date";
+"kTimeTitle" = "Time";
+
+//RSSpaClassCategoryVC
+"kSelect_the_Title" = "Select the";  
+"kCategory_Title" = "category";
+
+//RSSpaConfirmationVC
+"kStaffName_Title" = "Staff Name";
+
+//MyAccount
+"kNoDescription_Title" = "no description";
+"kYourExpences_Title" = "your expences are";
+"kForm_Title" = "Form";
+"kTo_Small_Title" = "to";
+"kItemsInFolio_Title" = "Items in Folio";
+
+//ConnectionManager
+"kNetwokError" = "Netwok Error";
+"kGender_Title" = "Gender";
+
+// ---- Button Title(Text) -------
+"kCheckAvailability_Title" = "Check Availability";
+"kSelect_Title" = "Select";
+
+//----------------------------------------------//
+
+
+// First Section
+"kSalutaion_Title" = "Salutation";
+"kFirstName_Title" = "First Name";
+"kLastName_Title" = "Last Name";
+"kEmail_Title" = "Email";
+"kConfirmEmail_Title" = "Confirm Email";
+"kPassword_Title" = "Password";
+"kConfirmPassword_Title" = "Confirm Password";
+"kDob_Title" = "Date Of Birth:";
+
+"kGender_PlaceHolder_Title" = "Enter Your Gender";
+"kSalutaion_PlaceHolder_Title" = "Mr of Miss or MrS";
+"kEmail_PlaceHolder_Title" = "Email ID";
+"kConfirmEmail_PlaceHolder_Title" = "Confirm Email ID";
+"kDob_PlaceHolder_Title" = "dd-MMMM-YYYY";
+
+//--- Second section header
+"kSecondSectionHeader_Title" = "Select for main phone";
+
+// Second Section 
+"kHomePhone_Title" = "Home Phone";
+"kWorkPhone_Title" = "Work Phone";
+"kWorkPhExtension_Title" = "Work Phone Ext:";
+"kOtherPhone_Title" = "Other Phone";
+
+"kWorkPhExtension_PlaceHolder_Title" = "Extension";
+
+//--- Third section header
+"kThirdSectionHeader_Title" = "Address(optional)";
+
+// Third Section
+"kAddress1_Title" = "Address 1";
+"kAddress2_Title" = "Address 2";
+"kCity_Title" = "City";
+"kState_Title" = "State / Prov";
+"kCountry_Title" = "Country";
+"kZip_Title" = "ZIP / Postal Code";
+
+"kState_PlaceHolder_Title" = "State/Prov";
+"kZip_PlaceHolder_Title" = "ZIP/Postal Code";
+
+//-- Fourth Section Header
+"kOtherAddressOptional_Title" = "Other Address(optional)";
+
+// Authentication
+"kReservationNo_Title" = "Reservation No.";
+"kGuestPin_Title" = "GuestPin";
+"kPasssword_Title" = "Password";
+
+
+ 
+
+//RSMainViewController
+"kNoNetwork_Title" = "No network";
+
+////RSGolfBookingModel class
+"kCOURSE_NAME_Title" = "COURSE NAME";
+"kLOCATION_NAME_Title" = "LOCATION NAME";
+
+
+//RSGallery
+"kImage_Name_Title" = "Image name";
+
+//RSMyItineraryModel Class
+//RSFolio
+"kFormatedStartDate_Title" = "formatedStartDate"; 
+"kStaff_Small_Titel" = "staff";
+"kRoom_Small_Title" = "room";
+"kFormated_Date_Small_Title" = "formated date";
+
+"kRoomNumber_Small_Titel" = "roomNumber";
+"kRoomType_Small_Title" = "room type";
+"kFormatedStartDate_Small_Title" = "formatedStartDate";
+
+//RSMobile
+"kVersion_Small_Title" = "version";
+"kStatus_Small_Title" = "status";
+"kEndpointURl_Small_Title" = "endpoint url";
+//---------------------------------------------------------------------//
+
+
+//------- RSConstant -------------------------------------------------//
+// ------ Booking confirmation mesasge based on Guaranteed
+"BackButtonTitle" = "Back";
+
+"DataNotAvailable" = "<Data not available>";
+"NONE" = "None";
+
+"Refresh_Title" = "Refresh";
+
+// EndPointConfiguration
+"DeprecatedVersionAlertTitle" = "Update Available";
+"DeprecatedVersionAlertMessage" = "There is a newer version of the application available.Please update to the latest version";
+"DeprecatedStatus" = "Deprecated"; 
+
+"NotConfigured_tile" = "error in connection";
+"NotConfigured_Message" = "Application Not Configured";
+
+"GuaranteedBookingMessage" = "Booking Confirmed - Your booking is successful. To make another booking, please select another from below:";
+"UnGuaranteedBookingMessage" = "A tentative booking has been made for you. To confirm your booking kindly contact us to provide us with your credit card information to guarantee your booking.";
+
+// Project Tree
+"kMap" = "Map";
+"kLocations" = "Locations";
+"kGallery" = "Gallery";
+
+//GolfCourseBookingVC
+"kFaultTitle" = "Fault";
+
+
+
+
+//---------- RSTeaserBuildConstant --------------------------//
+//----- Hotel -----//
+//Application Header Name
+"Hotel_Application_Title"  =   "Brentwood Bay Resort";
+
+//My Hotel Home Screen Buttons Name
+"IF_Club/Hotel_Two_Buttons_Hotel_Button1_Title2"  =   "";
+"Hotel_Button1_Title1"	=   "My";
+"Hotel_Button1_Title2"  =   "Hotel";
+"Hotel_Button2_Title2"  =   "Itinerary";
+"IF_ALL_VERSIONS_SECOND_STATIC_Hotel_Button3_Title2" = "Static";
+"Hotel_Button3_Title2" = "Group";
+
+//Hotel Information
+"Hotel_Map_Address" = "849 Verdier Avenue, Victoria, BC V8M 1C5";	
+
+// ------ Club ------//
+//Application Header Name
+"Club_Application_Title" = "Washington Athletic Club";
+
+//My Club Home Screen Buttons Name
+"Club_Button1_Title2" = "Club";
+"Club_Button3_Title2" = "Account";
+
+//Itinerary
+"Club_Dining_Title" = "Dining";
+"Club_SPA_Title" = "Spa";
+"Club_Athletics_Title" = "Athletics";
+
+//Club Information 
+"Club_Map_Address" = "1325 6th Ave. Seattle, WA 98101";
+
+// Club Images and Itinerary
+"Hotel_GOLF_Title" = "Golf";
+//My Itinerary Title :
+"Hotel_Transportation_Title" = "Transportation";
+
+//RSMainScreenButton
+"kStatic_Title" = "Static";
+
+"kEmail_address_Title" = "Email address:";
+"kEmail_address_Title" = "fr_Email address:";
+//---------------------------------------------------------------------//
+
+
+
+
