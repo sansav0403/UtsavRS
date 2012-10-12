@@ -1,34 +1,0 @@
-10
-
-dir
-11523
-https://mobile-svn.cybage.com/svn/Mobile-COE/ResortSuite/iPad/ResortSuite/trunk/Ipad-ResortSuite/ProjectTreeStructure
-https://mobile-svn.cybage.com/svn/Mobile-COE
-
-
-
-2012-10-04T07:20:03.334956Z
-11497
-sandeeppar
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-d1136430-c636-f348-b4e1-fb4d10741f68
-
-Club
-dir
-
-Hotel
-dir
-
