@@ -1,0 +1,23 @@
+//
+//  UIManager.h
+//  Ipad-ResortSuite
+//
+//  Created by Basant Sarda on 10/18/12.
+//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+//
+
+#import <Foundation/Foundation.h>
+
+@interface UIManager : NSObject
+
+/*!
+ @method		setButtonProperties
+ @brief			Set buttons common properties
+ @details		Set buttons common properties
+ @param			(NSString *)titelText:- button's title text 
+                (BOOL)isDisable:- if disable, set button's disable background image 
+ @return		UIButton :- returns updated button's object
+ */
++ (void)setButtonProperties:(UIButton *)customButton title:(NSString *)titelText isDisable:(BOOL)isDisable; 
+
+@end
