@@ -1,0 +1,500 @@
+/* 
+ Localizable.strings
+ ResortSuite
+ 
+ Created by Cybage on 9/5/12.
+ Copyright (c) 2012 Cybage. All rights reserved.
+ */
+
+
+
+//---------- RSTeaserBuildConstant --------------------------//
+//----- Hotel -----//
+//Application Header Name
+"Hotel_Application_Title"  =   "ja_Brentwood Bay Resort";
+
+//My Hotel Home Screen Buttons Name
+"IF_Club/Hotel_Two_Buttons_Hotel_Button1_Title2"  =   "";
+"Hotel_Button1_Title1"	=   "ja_My";
+"Hotel_Button1_Title2"  =   "ja_Hotel";
+"Hotel_Button2_Title2"  =   "ja_Itinerary";
+"Hotel_Button3_Title2" = "ja_Group";
+
+//Hotel Information
+"Hotel_Map_Address" = "ja_849 Verdier Avenue, Victoria, BC V8M 1C5";	
+
+// ------ Club ------//
+//Application Header Name
+"Club_Application_Title" = "ja_Washington Athletic Club";
+
+//My Club Home Screen Buttons Name
+"Club_Button1_Title2" = "ja_Club";
+"Club_Button3_Title2" = "ja_Account";
+
+//Itinerary
+"Club_Dining_Title" = "ja_Dining";
+"Club_SPA_Title" = "ja_Spa";
+"Club_Athletics_Title" = "ja_Athletics";
+
+//Club Information 
+"Club_Map_Address" = "ja_1325 6th Ave. Seattle, WA 98101";
+
+// Club Images and Itinerary
+"Hotel_GOLF_Title" = "ja_Golf";
+//My Itinerary Title :
+"Hotel_Transportation_Title" = "ja_Transportation";
+//---------------------------------------------------------------------//
+
+
+//---------- RSLabelConstant ----------------------------------------//
+// Home Page
+"RSHomeTabTitle" = "ja_Home";
+"RSMyHotelTabTitle" = "ja_My Hotel";
+"RSMyClubTabTitle"  = "ja_My Club";
+
+"RSHotelSelfTabTitle" = "ja_Self";
+"RSClubItineraryTabTitle" = "ja_My Itinerary";
+
+"RSHotelMyGroupTabTitle" = "ja_My Group";
+"RSClubMyAccountTabTitle" = "ja_My Account";
+
+"RSBookingTabTitle" = "ja_Book";
+"RSStaticTabTitle" = "ja_My Static";
+
+"RsGallaryTitle" = "ja_Gallery";
+
+//--------------------------------------------------------------------//
+//Pop up Error messages
+"POPUP_Sign_Out" = "ja_Sign Out";
+"POPUP_Sign_Out_Text" = "ja_Do you want to sign out?";
+"POPUP_Offline_Mode" = "ja_Offline Mode";
+"POPUP_Offline_Content" = "ja_A network connection cannot be detected.  Offline content may be out of date.";			
+"POPUP_Offline_Content_Unavailable" = "ja_A network connection cannot be detected. Content not available in offline mode.";			
+
+"POPUP_Meeting_Data_Unavailable" = "ja_You have no group meetings to display";
+
+
+"POPUP_Invalid_Email" = "ja_Invalid Email Address and/or Password";
+"POPUP_Invalid_Request" = "ja_Invalid request. Missing reservation or customer credentials.";
+"POPUP_Invalid_GuestPin" = "ja_Invalid guest pin for PMSFolioId";
+"POPUP_Invalid_FolioId" = "ja_Invalid PMSFolioId";
+"POPUP_Start_End_Date" = "ja_End date should be greater than Start date";
+"POPUP_Enter_Date" = "ja_Please enter start date or/and end date";
+"POPUP_No_Bookings" = "ja_There are no bookings for the selected date range";
+"POPUP_Server_Unavailable" = "ja_Server not available. Please try again later.";
+"POPUP_No_Network" = "ja_No network available";
+"POPUP_Select_Service" = "ja_Please select service first";
+"POPUP_Select_Date" = "ja_Please select date first";
+"POPUP_Activity_Data_Unavailable" = "ja_No data available for requested activity";
+"POPUP_Service_Unavailable" = "ja_Requested service is not available. Please select an alternative day or time.";
+"POPUP_Class_Already_Booked" = "ja_You are already booked for a class or service during the requested date and time. Please select another date and/or time.";
+"POPUP_Change_Search" = "ja_No available appointments. Change your search criteria and try again.";
+
+"POPUP_Tee_Times" = "ja_No tee times available";
+"POPUP_Tee_Times_Text" = "ja_Please select another time";
+
+"POPUP_Booking_Unavailable" = "ja_You have no bookings to display";
+
+
+"kPOPUP_Guarantee_Required" = "ja_We cannot complete your booking at this time as your account is not cinfigured with a valid guarantee. \n\nPlease contact us so we can update your account.";
+
+//----------------------------------------------//
+// ------- Account Views Title
+"AccountList_ViewTilte" = "ja_Account's List";
+"Club_MyActivity" = "ja_My Activity";
+"ChargeDetail_ViewTilte" = "ja_Charge Detail";
+"BillingPeriod_ViewTilte" = "ja_Billing Periods";
+"BillingPeriod_Current" = "ja_Current";
+"BillingPeriod_Last" = "ja_Last";
+"BillingPeriod_Previous" = "ja_Previous";
+
+"StatementOptions_ViewTilte" = "ja_Statement Options";
+"PreviousBilling_ViewTilte" = "ja_Previous Billing Periods";
+"Club_ViewProfile" = "ja_View Profile";
+"Club_ViewStatement" = "ja_View Statement";
+
+"Club_Profile" = "ja_Profile";
+
+"Club_Summary" = "ja_Summary";
+"Club_Charges" = "ja_Charges";
+"Club_Payments" = "ja_Payments";
+
+
+//Summary page screen text
+"AccountSummaryHeader " = "ja_Account Summary";
+"AccountAgedBalanceHeader" = "ja_Aged Balance Summary";
+
+"AccountNumber" = "ja_Account #:";
+"AccountType" = "ja_Account Type:";
+"AccountQwner" = "ja_Account Owner:";
+"AccountMemberShipCount" = "ja_Member #:";
+"AccountMemberShipID" = "ja_Member Id:";
+"AccountMemberShipLevel" = "ja_Member Level:";
+
+"AccountStatementperiod" = "ja_Statement Period:";
+"AccountpreviousBalance" = "ja_Previous Balance:";
+"AccountPayments" = "ja_Payments:";
+"AccountNewCharges" = "ja_New Charges:";
+"AccountBalance" = "ja_Account Balance:";
+
+"AccountCurrentBalance" = "ja_Current Balance:";
+"AccountCurrent30dayBalance" = "ja_30 Day Balance:";
+"AccountCurrent60dayBalance" = "ja_60 Day Balance:";
+"AccountCurrent90dayBalance" = "ja_90 Day Balance:";
+
+//profile screen
+
+"AccountDetailHeader" = "ja_Account Details";
+"CurrentMembershipHeader" = "ja_Current Memberships";
+"AccountCustomerHeader" = "ja_Account Customers";
+
+
+"AccountAddressStaticText" = "ja_Address:";
+"AccountPhoneStaticText" = "ja_Phone:";
+
+
+"MembershipType" = "ja_Type:";
+"MembershipName" = "ja_Member:";
+"MembershipStatus" = "ja_Status:";
+"MembershipEffectiveDate" = "ja_Effective Date:";
+"MembershipExpiryDate" = "ja_Expiry Date:";
+
+"AccountName" = "ja_Name:";
+
+
+//charge and payment
+"Charge_PaymentAmountTitle" = "ja_Amount";
+"ChargeDescriptionTitle" = "ja_Description";
+"PaymentTypeTitle" = "ja_Payment Type";
+
+"TotalChargeText" = "ja_Total Charge";
+"TotalPaymentText" = "ja_Total Payment";
+
+//account statement option labels
+"AccOption_Chargesection_Title" = "ja_Account Charges";
+"AccOption_Paymentsection_Title" = "ja_Account Payments";
+
+"kNoMemberShipForGuest_Title" = "ja_No Memebership found for the Guest";
+
+//----------------------------------------------//
+// ------ My Itinerary/Group Views Title
+
+"AllFutureBooking_CellTitle" = "ja_All Future Bookings";
+"SpecificDate_CellTitle" = "ja_Specific Dates";
+"SelectDates_ViewTitle" = "ja_Select Dates";
+"SelectDuration_viewTitle" = "ja_Select Duration";
+
+"ItineraryCategory_ByDate" = "ja_By Date";
+"ItineraryCategory_ByCategory" = "ja_By Category";
+"ItineraryCategory_ByAll" = "ja_All";
+//------- My Group Views Title
+
+//Duration selection in group and Itinerary
+"DurationSelection_Start" = "ja_Starts";
+"DurationSelection_Ends" = "ja_Ends";
+//Itinerary desccription view labels
+"Hotel_Reservation" = "ja_Reservation :";
+"Hotel_Arival_Date" = "ja_Arival Date :";
+"Hotel_Departure_Date" = "ja_Departure Date :";
+"Hotel_Total_Guest" = "ja_Total Guest(s) :";
+"Hotel_Room_Number" = "ja_Room Number :";
+
+"Spa_Location" = "ja_Location :";
+"Spa_Service" = "ja_Service :";
+"Spa_Time" = "ja_Time :";
+"Spa_Performed_By" = "ja_Performed By :";
+"Spa_Room" = "ja_Room :";
+"Spa_Description" = "ja_Description :";
+"Spa_Client_instruction" = "ja_Client                   Instructions :";
+
+"Golf_Course" = "ja_Course :";
+"Golf_Tee_Time" = "ja_Tee-Time :";
+
+"Dining_Venue" = "ja_Venue :";
+"Dining_Time" = "ja_Time :";
+"Dining_detail" = "ja_detail :";
+
+"Transportation_Departure_location" = "ja_Departure Location :";
+"Transportation_Departure_Time" = "ja_Departure Time :";
+"Transportation_Arrival_Location" = "ja_Arrival Location :";
+"Transportation_Arrival_Time" = "ja_Arrival Time :";
+//group Table
+"GroupTableViewTitle" = "ja_Group Events";
+//event description view
+"GroupEventDesc_viewTitle" = "ja_Event Details";
+
+"GroupEventDesc_EventLbl" = "ja_Event";
+"GroupEventDesc_LocationLbl" = "ja_Location";
+
+
+//----------------------------------------------//
+
+//--- Booking Views Title
+"NoBookingTitle" = "";
+"NoBookingMessage" = "ja_We are currently not accepting mobile reservation at this time.";
+
+"Book_ViewTilte" = "ja_Book Menu";
+"GolfLocation_ViewTilte" = "ja_Golf Locations";
+"GolfCourse_ViewTilte" = "ja_Golf Course";
+"BookGolf_ViewTilte" = "ja_Book Golf";
+"SpaAvailableTimes" = "ja_Available Times";
+//
+"ClassActivityCellText" = "ja_Class/Activity";
+//spa booking form cell text
+"SpaBookingFormService" = "ja_Service";
+
+"SpaBookingFormStafGender" = "ja_Pref. Staff Gender";
+"SpaBookingFormStaff" = "ja_Pref. Staff";
+"SpaBookingNoPref" = "ja_No Pref.";
+
+
+//Spa service table view
+"SpaServiceTable_HeaderTitle" = "ja_Search result";
+
+
+//Class service table view
+"ClassServiceTableCol_StartTimeLbl" = "ja_Start Time";
+"ClassServiceTableCol_PriceLbl" = "ja_Price";
+"ClassServiceTableCol_TimeLbl" = "ja_Time (min)";
+//Spa Service Desc View labels
+
+"SpaServiceDesc_DurationLbl" = "ja_Duration(min) :";
+"SpaServiceDesc_PriceLbl" = "ja_Price :";
+
+//Class Service Desc View Labels
+"ClassServiceDesc_NoOfClassLbl" = "ja_# of Classes :";
+"ClassServiceDesc_StartTimeLbl" = "ja_Start Time :";
+
+//spa service confirmation view text
+"SpaConfirmationView_Service" = "ja_Service:";
+"SpaConfirmationView_Date" = "ja_Date:";
+"SpaConfirmationView_Time" = "ja_Time:";
+"SpaConfirmationView_Duration" = "ja_Duration(min):";
+"SpaConfirmationView_Price" = "ja_Price:";
+"SpaConfirmationView_Description" = "ja_Description:";
+//Class Service Confirmation view text
+"ClassConfirmationView_Service" = "ja_Class/Activity :";
+"ClassConfirmationView_Date" = "ja_Date :";
+
+//Golf Booking Form
+"GolfBookingFormPrefTeeTime" = "ja_Pref. Tee Time";
+"GolfBookingFormNoOfPlayer" = "ja_No. of Player";
+"ConfirmGolfBookDetailheader" = "ja_Confirm Detail And Book Now";
+"kBook_Title" = "ja_Book";
+"KBookNow_Title" = "ja_Book Now";
+"kDateTitle" = "ja_Date";
+"kTeeTimeTitle" = "ja_Tee Time";
+"kOf_Players_Title" = "ja_# of Players";
+"kPricePerPlayerTitle" = "frPrice per Player";
+
+//
+"ConfirmBooking_ViewTilte" = "ja_Confirm Booking";
+"pleaseSelectText" = "ja_   Please select";
+"searchResultText" = "ja_  Search Results";
+"SpaAvailableTimeText" = "ja_The requested time slot is not available,  Please select the following alternate time.";
+//golf select players
+"NoOfPlayerCellText" = "ja_No Of Players";
+//----------------------------------------------//
+//-------- Login action sheet view
+"VERIFY_EMAIL_VIEW_TITLE" = "ja_Verify Email";
+
+"kEnterNewPassword_TITLE" = "ja_enter new Password";
+"kEnterPassword_TITLE" = "ja_enter Password";
+
+//----------------------------------------------//
+//-----user registration screen alert messages
+
+"ALERT_OK_TITLE" = "ja_OK";
+
+// Validation variables
+
+"alertTitleForInvalidText" = "ja_Enter valid Information";
+"alertMessageForInvalidText" = "ja_Field cannot be empty";
+
+"alertTitleForEmptyGender" = "ja_";
+"alertMessageForEmptyGender" = "ja_Please enter your Gender";
+
+"alertTitleForValidSalutation" = "ja_";
+"alertMessageForValidSalutation" = "ja_Please enter appropriate salutation";
+
+"alertTitleForInvalidEmailAddress" = "ja_Invalid Email Address";
+"alertMessageForInvalidEmailAddress" = "ja_Enter a valid email address";
+
+"alertTitleForUnmatchedEmail" = "ja_Unmatched Email Address";
+"alertMessageForUnmatchedEmail" = "ja_Enter the same email address for confirmation";
+
+"alertTitleForImproperPassord" = "ja_Invalid Password";
+"alertMessageForImproperPassord" = "ja_Password must be of atleast %d length";//%d represents the requird length of the password
+
+"alertTitleForUnmatchedPassword" = "ja_Password Not Confirmed";
+"alertMessageForUnmatchedPassword" = "ja_Enter the same Password as above";
+
+"alertTitleForAtleastOnePhoneNumber" = "ja_Contact number";
+"alertMessageForAtleastOnePhoneNumber" = "ja_Please enter atleast one contact number";
+
+"alertMessageForPassWordResset" = "ja_You will receive an email with your new password";
+
+"alertTitleForUserCreated" = "ja_";
+"alertMessageForUserCreated" = "ja_Your account has been successfully created";
+
+//-------- MAPS
+"MapView_title" = "ja_Map";
+"Map_infoBUtton_title" = "ja_Info";
+
+//------- Booking confirmation mesasge based on Guaranteed
+"GuaranteedBookingMessage" = "ja_Booking Confirmed - Your booking is successful. To make another booking, please select another from below:";
+"UnGuaranteedBookingMessage" = "ja_A tentative booking has been made for you. To confirm your booking kindly contact us to provide us with your credit card information to guarantee your booking.";
+
+
+//RSMGMainScreenViewController
+"kAllEvents_Title" = "ja_All Events";
+
+//RSMainScreenButton
+"kStatic_Title" = "ja_Static";
+
+//forgot password
+"kTypeEmailAddress_Title" = "ja_Type your email address";
+
+//Change Password
+"kCurrentPassword_Title" = "ja_Current password:";
+"kNewPassword_Title" = "ja_New password:";
+"kConfirmPassword_Title" = "ja_Confirm password:";
+
+//EmailVerification
+"kEmailRegisteredVerification_Title" = "ja_Check if email address is already registered";
+"kEmail_address_Title" = "ja_Email address:";
+
+//New User Form
+"kMandatory_Title" = "ja_Mandatory *";
+"kWarning_Title" = "ja_Warning"; 
+"kAlertForInvalidPhoneNumber__Message" = "ja_Please Enter correct contact no.";
+
+
+// First Section
+"kGender_Title" = "ja_Gender";
+"kSalutaion_Title" = "ja_Salutation";
+"kFirstName_Title" = "ja_First Name";
+"kLastName_Title" = "ja_Last Name";
+"kEmail_Title" = "ja_Email";
+"kConfirmEmail_Title" = "ja_Confirm Email";
+"kPassword_Title" = "ja_Password";
+"kDob_Title" = "ja_Date Of Birth:";
+
+"kGender_PlaceHolder_Title" = "ja_Enter Your Gender";
+"kSalutaion_PlaceHolder_Title" = "ja_Mr of Miss or MrS";
+"kEmail_PlaceHolder_Title" = "ja_Email ID";
+"kConfirmEmail_PlaceHolder_Title" = "ja_Confirm Email ID";
+"kDob_PlaceHolder_Title" = "ja_dd-MMMM-YYYY";
+
+//--- Second section header
+"kSecondSectionHeader_Title" = "ja_Select for main phone";
+
+// Second Section 
+"kHomePhone_Title" = "ja_Home Phone";
+"kWorkPhone_Title" = "ja_Work Phone";
+"kWorkPhExtension_Title" = "ja_Work Phone Ext:";
+"kOtherPhone_Title" = "ja_Other Phone";
+
+"kWorkPhExtension_PlaceHolder_Title" = "ja_Extension";
+
+//--- Third section header
+"kThirdSectionHeader_Title" = "ja_Address(optional)";
+
+// Third Section
+"kAddress1_Title" = "ja_Address 1";
+"kAddress2_Title" = "ja_Address 2";
+"kCity_Title" = "ja_City";
+"kState_Title" = "ja_State / Prov";
+"kCountry_Title" = "ja_Country";
+"kZip_Title" = "ja_ZIP / Postal Code";
+
+"kState_PlaceHolder_Title" = "ja_State/Prov";
+"kZip_PlaceHolder_Title" = "ja_ZIP/Postal Code";
+
+//-- Fourth Section Header
+"kOtherAddressOptional_Title" = "ja_Other Address(optional)";
+
+
+// Authentication
+"kReservationNo_Title" = "ja_Reservation No.";
+"kGuestPin_Title" = "ja_GuestPin";
+
+//RSSpaClassCategoryVC
+"kSelect_the_Title" = "ja_Select the";  
+"kCategory_Title" = "ja_category";
+
+//RSSpaConfirmationVC
+"kSelectAppointment_Title" = "Select an Appointment";  
+"kTimeSlotNotAvailabel_Message" = "The requested time slot is not available,Please select the following alternate time";
+"kStaffName_Title" = "ja_Staff Name";
+"kExceptionWhileBooking_Message" = "ja_exception while booking";
+
+//RSMainViewController
+"kNoNetwork_Title" = "frNo network";
+
+//MyAccount
+"kNoDescription_Title" = "frno description";
+"kMembership_Title" = "frMembership";
+"kYourExpences_Title" = "fryour expences are";
+"kForm_Title" = "frForm";
+"kTo_Small_Title" = "frto";
+"kItemsInFolio_Title" = "frItems in Folio";
+
+
+
+//------- RSConstant -------------------------------------------------//
+"BackButtonTitle" = "ja_Back";
+
+"DataNotAvailable" = "ja_<Data not available>";
+"NONE" = "ja_None";
+
+"Refresh_Title" = "ja_Refresh";
+
+//------- EndPointConfiguration
+"DeprecatedVersionAlertTitle" = "ja_Update Available";
+"DeprecatedVersionAlertMessage" = "ja_There is a newer version of the application available.Please update to the latest version";
+"DeprecatedStatus" = "ja_Deprecated"; 
+
+// New User registration
+"Salutation_Mr" = "ja_Mr.";
+"Salutation_Ms" = "ja_Ms.";
+"Salutation_Mrs" =  "ja_Mrs.";
+"Salutation_Miss" =  "ja_Miss.";
+"Salutation_Dr" =  "ja_Dr.";
+"Salutation_Mr_Mrs" = "ja_Mr. & Mrs.";
+
+"Gender_Male" = "ja_Male";
+"Gender_Female" = "ja_Female";
+"Gender_No_answer" = "No answer";
+
+
+// ---- Button Title(Text) -------
+"kCheckAvailability_Title" = "ja_Check Availability";
+
+//GolfCourseBookingVC
+"kFaultTitle" = "ja_Fault";
+
+//DateSelectinVC
+"kTimeTitle" = "ja_Time";
+
+"kSelect_Title" = "ja_Select";
+"kDone_Title" = "ja_Done";
+"kBookAnotherService_Title" = "ja_Book Another Service";
+"kViewItinerary_Title" = "ja_View Itinerary";
+
+
+"kCancel_Title" = "ja_Cancel";
+"kChangePassword_Title" = "ja_Change Password";
+"kForgotPassword_Title" = "ja_Forgot Password";
+"kLogOut_Title" = "ja_Log Out";
+"kSignIn_Title" = "ja_Sign In";
+"kNewUSer_Title" = "ja_New User";
+"kChange_Title" = "ja_Change";
+"kReset_Title" = "ja_Reset";
+"kVerify_Title" = "ja_Verify";
+
+// Project Tree
+"kMap" = "ja_Map";
+"kGallery" = "ja_Gallery";
+
+

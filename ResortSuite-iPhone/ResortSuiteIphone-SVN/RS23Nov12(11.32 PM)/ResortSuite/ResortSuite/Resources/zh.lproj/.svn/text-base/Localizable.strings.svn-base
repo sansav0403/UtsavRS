@@ -1,0 +1,500 @@
+/* 
+ Localizable.strings
+ ResortSuite
+ 
+ Created by Cybage on 9/5/12.
+ Copyright (c) 2012 Cybage. All rights reserved.
+ */
+
+
+
+//---------- RSTeaserBuildConstant --------------------------//
+//----- Hotel -----//
+//Application Header Name
+"Hotel_Application_Title"  =   "zh_Brentwood Bay Resort";
+
+//My Hotel Home Screen Buttons Name
+"IF_Club/Hotel_Two_Buttons_Hotel_Button1_Title2"  =   "";
+"Hotel_Button1_Title1"	=   "zh_My";
+"Hotel_Button1_Title2"  =   "zh_Hotel";
+"Hotel_Button2_Title2"  =   "zh_Itinerary";
+"Hotel_Button3_Title2" = "zh_Group";
+
+//Hotel Information
+"Hotel_Map_Address" = "zh_849 Verdier Avenue, Victoria, BC V8M 1C5";	
+
+// ------ Club ------//
+//Application Header Name
+"Club_Application_Title" = "zh_Washington Athletic Club";
+
+//My Club Home Screen Buttons Name
+"Club_Button1_Title2" = "zh_Club";
+"Club_Button3_Title2" = "zh_Account";
+
+//Itinerary
+"Club_Dining_Title" = "zh_Dining";
+"Club_SPA_Title" = "zh_Spa";
+"Club_Athletics_Title" = "zh_Athletics";
+
+//Club Information 
+"Club_Map_Address" = "zh_1325 6th Ave. Seattle, WA 98101";
+
+// Club Images and Itinerary
+"Hotel_GOLF_Title" = "zh_Golf";
+//My Itinerary Title :
+"Hotel_Transportation_Title" = "zh_Transportation";
+//---------------------------------------------------------------------//
+
+
+//---------- RSLabelConstant ----------------------------------------//
+// Home Page
+"RSHomeTabTitle" = "zh_Home";
+"RSMyHotelTabTitle" = "zh_My Hotel";
+"RSMyClubTabTitle"  = "zh_My Club";
+
+"RSHotelSelfTabTitle" = "zh_Self";
+"RSClubItineraryTabTitle" = "zh_My Itinerary";
+
+"RSHotelMyGroupTabTitle" = "zh_My Group";
+"RSClubMyAccountTabTitle" = "zh_My Account";
+
+"RSBookingTabTitle" = "zh_Book";
+"RSStaticTabTitle" = "zh_My Static";
+
+"RsGallaryTitle" = "zh_Gallery";
+
+//--------------------------------------------------------------------//
+//Pop up Error messages
+"POPUP_Sign_Out" = "zh_Sign Out";
+"POPUP_Sign_Out_Text" = "zh_Do you want to sign out?";
+"POPUP_Offline_Mode" = "zh_Offline Mode";
+"POPUP_Offline_Content" = "zh_A network connection cannot be detected.  Offline content may be out of date.";			
+"POPUP_Offline_Content_Unavailable" = "zh_A network connection cannot be detected. Content not available in offline mode.";			
+
+"POPUP_Meeting_Data_Unavailable" = "zh_You have no group meetings to display";
+
+
+"POPUP_Invalid_Email" = "zh_Invalid Email Address and/or Password";
+"POPUP_Invalid_Request" = "zh_Invalid request. Missing reservation or customer credentials.";
+"POPUP_Invalid_GuestPin" = "zh_Invalid guest pin for PMSFolioId";
+"POPUP_Invalid_FolioId" = "zh_Invalid PMSFolioId";
+"POPUP_Start_End_Date" = "zh_End date should be greater than Start date";
+"POPUP_Enter_Date" = "zh_Please enter start date or/and end date";
+"POPUP_No_Bookings" = "zh_There are no bookings for the selected date range";
+"POPUP_Server_Unavailable" = "zh_Server not available. Please try again later.";
+"POPUP_No_Network" = "zh_No network available";
+"POPUP_Select_Service" = "zh_Please select service first";
+"POPUP_Select_Date" = "zh_Please select date first";
+"POPUP_Activity_Data_Unavailable" = "zh_No data available for requested activity";
+"POPUP_Service_Unavailable" = "zh_Requested service is not available. Please select an alternative day or time.";
+"POPUP_Class_Already_Booked" = "zh_You are already booked for a class or service during the requested date and time. Please select another date and/or time.";
+"POPUP_Change_Search" = "zh_No available appointments. Change your search criteria and try again.";
+
+"POPUP_Tee_Times" = "zh_No tee times available";
+"POPUP_Tee_Times_Text" = "zh_Please select another time";
+
+"POPUP_Booking_Unavailable" = "zh_You have no bookings to display";
+
+
+"kPOPUP_Guarantee_Required" = "zh_We cannot complete your booking at this time as your account is not cinfigured with a valid guarantee. \n\nPlease contact us so we can update your account.";
+
+//----------------------------------------------//
+// ------- Account Views Title
+"AccountList_ViewTilte" = "zh_Account's List";
+"Club_MyActivity" = "zh_My Activity";
+"ChargeDetail_ViewTilte" = "zh_Charge Detail";
+"BillingPeriod_ViewTilte" = "zh_Billing Periods";
+"BillingPeriod_Current" = "zh_Current";
+"BillingPeriod_Last" = "zh_Last";
+"BillingPeriod_Previous" = "zh_Previous";
+
+"StatementOptions_ViewTilte" = "zh_Statement Options";
+"PreviousBilling_ViewTilte" = "zh_Previous Billing Periods";
+"Club_ViewProfile" = "zh_View Profile";
+"Club_ViewStatement" = "zh_View Statement";
+
+"Club_Profile" = "zh_Profile";
+
+"Club_Summary" = "zh_Summary";
+"Club_Charges" = "zh_Charges";
+"Club_Payments" = "zh_Payments";
+
+
+//Summary page screen text
+"AccountSummaryHeader " = "zh_Account Summary";
+"AccountAgedBalanceHeader" = "zh_Aged Balance Summary";
+
+"AccountNumber" = "zh_Account #:";
+"AccountType" = "zh_Account Type:";
+"AccountQwner" = "zh_Account Owner:";
+"AccountMemberShipCount" = "zh_Member #:";
+"AccountMemberShipID" = "zh_Member Id:";
+"AccountMemberShipLevel" = "zh_Member Level:";
+
+"AccountStatementperiod" = "zh_Statement Period:";
+"AccountpreviousBalance" = "zh_Previous Balance:";
+"AccountPayments" = "zh_Payments:";
+"AccountNewCharges" = "zh_New Charges:";
+"AccountBalance" = "zh_Account Balance:";
+
+"AccountCurrentBalance" = "zh_Current Balance:";
+"AccountCurrent30dayBalance" = "zh_30 Day Balance:";
+"AccountCurrent60dayBalance" = "zh_60 Day Balance:";
+"AccountCurrent90dayBalance" = "zh_90 Day Balance:";
+
+//profile screen
+
+"AccountDetailHeader" = "zh_Account Details";
+"CurrentMembershipHeader" = "zh_Current Memberships";
+"AccountCustomerHeader" = "zh_Account Customers";
+
+
+"AccountAddressStaticText" = "zh_Address:";
+"AccountPhoneStaticText" = "zh_Phone:";
+
+
+"MembershipType" = "zh_Type:";
+"MembershipName" = "zh_Member:";
+"MembershipStatus" = "zh_Status:";
+"MembershipEffectiveDate" = "zh_Effective Date:";
+"MembershipExpiryDate" = "zh_Expiry Date:";
+
+"AccountName" = "zh_Name:";
+
+
+//charge and payment
+"Charge_PaymentAmountTitle" = "zh_Amount";
+"ChargeDescriptionTitle" = "zh_Description";
+"PaymentTypeTitle" = "zh_Payment Type";
+
+"TotalChargeText" = "zh_Total Charge";
+"TotalPaymentText" = "zh_Total Payment";
+
+//account statement option labels
+"AccOption_Chargesection_Title" = "zh_Account Charges";
+"AccOption_Paymentsection_Title" = "zh_Account Payments";
+
+"kNoMemberShipForGuest_Title" = "zh_No Memebership found for the Guest";
+
+//----------------------------------------------//
+// ------ My Itinerary/Group Views Title
+
+"AllFutureBooking_CellTitle" = "zh_All Future Bookings";
+"SpecificDate_CellTitle" = "zh_Specific Dates";
+"SelectDates_ViewTitle" = "zh_Select Dates";
+"SelectDuration_viewTitle" = "zh_Select Duration";
+
+"ItineraryCategory_ByDate" = "zh_By Date";
+"ItineraryCategory_ByCategory" = "zh_By Category";
+"ItineraryCategory_ByAll" = "zh_All";
+//------- My Group Views Title
+
+//Duration selection in group and Itinerary
+"DurationSelection_Start" = "zh_Starts";
+"DurationSelection_Ends" = "zh_Ends";
+//Itinerary desccription view labels
+"Hotel_Reservation" = "zh_Reservation :";
+"Hotel_Arival_Date" = "zh_Arival Date :";
+"Hotel_Departure_Date" = "zh_Departure Date :";
+"Hotel_Total_Guest" = "zh_Total Guest(s) :";
+"Hotel_Room_Number" = "zh_Room Number :";
+
+"Spa_Location" = "zh_Location :";
+"Spa_Service" = "zh_Service :";
+"Spa_Time" = "zh_Time :";
+"Spa_Performed_By" = "zh_Performed By :";
+"Spa_Room" = "zh_Room :";
+"Spa_Description" = "zh_Description :";
+"Spa_Client_instruction" = "zh_Client                   Instructions :";
+
+"Golf_Course" = "zh_Course :";
+"Golf_Tee_Time" = "zh_Tee-Time :";
+
+"Dining_Venue" = "zh_Venue :";
+"Dining_Time" = "zh_Time :";
+"Dining_detail" = "zh_detail :";
+
+"Transportation_Departure_location" = "zh_Departure Location :";
+"Transportation_Departure_Time" = "zh_Departure Time :";
+"Transportation_Arrival_Location" = "zh_Arrival Location :";
+"Transportation_Arrival_Time" = "zh_Arrival Time :";
+//group Table
+"GroupTableViewTitle" = "zh_Group Events";
+//event description view
+"GroupEventDesc_viewTitle" = "zh_Event Details";
+
+"GroupEventDesc_EventLbl" = "zh_Event";
+"GroupEventDesc_LocationLbl" = "zh_Location";
+
+
+//----------------------------------------------//
+
+//--- Booking Views Title
+"NoBookingTitle" = "";
+"NoBookingMessage" = "zh_We are currently not accepting mobile reservation at this time.";
+
+"Book_ViewTilte" = "zh_Book Menu";
+"GolfLocation_ViewTilte" = "zh_Golf Locations";
+"GolfCourse_ViewTilte" = "zh_Golf Course";
+"BookGolf_ViewTilte" = "zh_Book Golf";
+"SpaAvailableTimes" = "zh_Available Times";
+//
+"ClassActivityCellText" = "zh_Class/Activity";
+//spa booking form cell text
+"SpaBookingFormService" = "zh_Service";
+
+"SpaBookingFormStafGender" = "zh_Pref. Staff Gender";
+"SpaBookingFormStaff" = "zh_Pref. Staff";
+"SpaBookingNoPref" = "zh_No Pref.";
+
+
+//Spa service table view
+"SpaServiceTable_HeaderTitle" = "zh_Search result";
+
+
+//Class service table view
+"ClassServiceTableCol_StartTimeLbl" = "zh_Start Time";
+"ClassServiceTableCol_PriceLbl" = "zh_Price";
+"ClassServiceTableCol_TimeLbl" = "zh_Time (min)";
+//Spa Service Desc View labels
+
+"SpaServiceDesc_DurationLbl" = "zh_Duration(min) :";
+"SpaServiceDesc_PriceLbl" = "zh_Price :";
+
+//Class Service Desc View Labels
+"ClassServiceDesc_NoOfClassLbl" = "zh_# of Classes :";
+"ClassServiceDesc_StartTimeLbl" = "zh_Start Time :";
+
+//spa service confirmation view text
+"SpaConfirmationView_Service" = "zh_Service:";
+"SpaConfirmationView_Date" = "zh_Date:";
+"SpaConfirmationView_Time" = "zh_Time:";
+"SpaConfirmationView_Duration" = "zh_Duration(min):";
+"SpaConfirmationView_Price" = "zh_Price:";
+"SpaConfirmationView_Description" = "zh_Description:";
+//Class Service Confirmation view text
+"ClassConfirmationView_Service" = "zh_Class/Activity :";
+"ClassConfirmationView_Date" = "zh_Date :";
+
+//Golf Booking Form
+"GolfBookingFormPrefTeeTime" = "zh_Pref. Tee Time";
+"GolfBookingFormNoOfPlayer" = "zh_No. of Player";
+"ConfirmGolfBookDetailheader" = "zh_Confirm Detail And Book Now";
+"kBook_Title" = "zh_Book";
+"KBookNow_Title" = "zh_Book Now";
+"kDateTitle" = "zh_Date";
+"kTeeTimeTitle" = "zh_Tee Time";
+"kOf_Players_Title" = "zh_# of Players";
+"kPricePerPlayerTitle" = "frPrice per Player";
+
+//
+"ConfirmBooking_ViewTilte" = "zh_Confirm Booking";
+"pleaseSelectText" = "zh_   Please select";
+"searchResultText" = "zh_  Search Results";
+"SpaAvailableTimeText" = "zh_The requested time slot is not available,  Please select the following alternate time.";
+//golf select players
+"NoOfPlayerCellText" = "zh_No Of Players";
+//----------------------------------------------//
+//-------- Login action sheet view
+"VERIFY_EMAIL_VIEW_TITLE" = "zh_Verify Email";
+
+"kEnterNewPassword_TITLE" = "zh_enter new Password";
+"kEnterPassword_TITLE" = "zh_enter Password";
+
+//----------------------------------------------//
+//-----user registration screen alert messages
+
+"ALERT_OK_TITLE" = "zh_OK";
+
+// Validation variables
+
+"alertTitleForInvalidText" = "zh_Enter valid Information";
+"alertMessageForInvalidText" = "zh_Field cannot be empty";
+
+"alertTitleForEmptyGender" = "zh_";
+"alertMessageForEmptyGender" = "zh_Please enter your Gender";
+
+"alertTitleForValidSalutation" = "zh_";
+"alertMessageForValidSalutation" = "zh_Please enter appropriate salutation";
+
+"alertTitleForInvalidEmailAddress" = "zh_Invalid Email Address";
+"alertMessageForInvalidEmailAddress" = "zh_Enter a valid email address";
+
+"alertTitleForUnmatchedEmail" = "zh_Unmatched Email Address";
+"alertMessageForUnmatchedEmail" = "zh_Enter the same email address for confirmation";
+
+"alertTitleForImproperPassord" = "zh_Invalid Password";
+"alertMessageForImproperPassord" = "zh_Password must be of atleast %d length";//%d represents the requird length of the password
+
+"alertTitleForUnmatchedPassword" = "zh_Password Not Confirmed";
+"alertMessageForUnmatchedPassword" = "zh_Enter the same Password as above";
+
+"alertTitleForAtleastOnePhoneNumber" = "zh_Contact number";
+"alertMessageForAtleastOnePhoneNumber" = "zh_Please enter atleast one contact number";
+
+"alertMessageForPassWordResset" = "zh_You will receive an email with your new password";
+
+"alertTitleForUserCreated" = "zh_";
+"alertMessageForUserCreated" = "zh_Your account has been successfully created";
+
+//-------- MAPS
+"MapView_title" = "zh_Map";
+"Map_infoBUtton_title" = "zh_Info";
+
+//------- Booking confirmation mesasge based on Guaranteed
+"GuaranteedBookingMessage" = "zh_Booking Confirmed - Your booking is successful. To make another booking, please select another from below:";
+"UnGuaranteedBookingMessage" = "zh_A tentative booking has been made for you. To confirm your booking kindly contact us to provide us with your credit card information to guarantee your booking.";
+
+
+//RSMGMainScreenViewController
+"kAllEvents_Title" = "zh_All Events";
+
+//RSMainScreenButton
+"kStatic_Title" = "zh_Static";
+
+//forgot password
+"kTypeEmailAddress_Title" = "zh_Type your email address";
+
+//Change Password
+"kCurrentPassword_Title" = "zh_Current password:";
+"kNewPassword_Title" = "zh_New password:";
+"kConfirmPassword_Title" = "zh_Confirm password:";
+
+//EmailVerification
+"kEmailRegisteredVerification_Title" = "zh_Check if email address is already registered";
+"kEmail_address_Title" = "zh_Email address:";
+
+//New User Form
+"kMandatory_Title" = "zh_Mandatory *";
+"kWarning_Title" = "zh_Warning"; 
+"kAlertForInvalidPhoneNumber__Message" = "zh_Please Enter correct contact no.";
+
+
+// First Section
+"kGender_Title" = "zh_Gender";
+"kSalutaion_Title" = "zh_Salutation";
+"kFirstName_Title" = "zh_First Name";
+"kLastName_Title" = "zh_Last Name";
+"kEmail_Title" = "zh_Email";
+"kConfirmEmail_Title" = "zh_Confirm Email";
+"kPassword_Title" = "zh_Password";
+"kDob_Title" = "zh_Date Of Birth:";
+
+"kGender_PlaceHolder_Title" = "zh_Enter Your Gender";
+"kSalutaion_PlaceHolder_Title" = "zh_Mr of Miss or MrS";
+"kEmail_PlaceHolder_Title" = "zh_Email ID";
+"kConfirmEmail_PlaceHolder_Title" = "zh_Confirm Email ID";
+"kDob_PlaceHolder_Title" = "zh_dd-MMMM-YYYY";
+
+//--- Second section header
+"kSecondSectionHeader_Title" = "zh_Select for main phone";
+
+// Second Section 
+"kHomePhone_Title" = "zh_Home Phone";
+"kWorkPhone_Title" = "zh_Work Phone";
+"kWorkPhExtension_Title" = "zh_Work Phone Ext:";
+"kOtherPhone_Title" = "zh_Other Phone";
+
+"kWorkPhExtension_PlaceHolder_Title" = "zh_Extension";
+
+//--- Third section header
+"kThirdSectionHeader_Title" = "zh_Address(optional)";
+
+// Third Section
+"kAddress1_Title" = "zh_Address 1";
+"kAddress2_Title" = "zh_Address 2";
+"kCity_Title" = "zh_City";
+"kState_Title" = "zh_State / Prov";
+"kCountry_Title" = "zh_Country";
+"kZip_Title" = "zh_ZIP / Postal Code";
+
+"kState_PlaceHolder_Title" = "zh_State/Prov";
+"kZip_PlaceHolder_Title" = "zh_ZIP/Postal Code";
+
+//-- Fourth Section Header
+"kOtherAddressOptional_Title" = "zh_Other Address(optional)";
+
+
+// Authentication
+"kReservationNo_Title" = "zh_Reservation No.";
+"kGuestPin_Title" = "zh_GuestPin";
+
+//RSSpaClassCategoryVC
+"kSelect_the_Title" = "zh_Select the";  
+"kCategory_Title" = "zh_category";
+
+//RSSpaConfirmationVC
+"kSelectAppointment_Title" = "Select an Appointment";  
+"kTimeSlotNotAvailabel_Message" = "The requested time slot is not available,Please select the following alternate time";
+"kStaffName_Title" = "zh_Staff Name";
+"kExceptionWhileBooking_Message" = "zh_exception while booking";
+
+//RSMainViewController
+"kNoNetwork_Title" = "frNo network";
+
+//MyAccount
+"kNoDescription_Title" = "frno description";
+"kMembership_Title" = "frMembership";
+"kYourExpences_Title" = "fryour expences are";
+"kForm_Title" = "frForm";
+"kTo_Small_Title" = "frto";
+"kItemsInFolio_Title" = "frItems in Folio";
+
+
+
+//------- RSConstant -------------------------------------------------//
+"BackButtonTitle" = "zh_Back";
+
+"DataNotAvailable" = "zh_<Data not available>";
+"NONE" = "zh_None";
+
+"Refresh_Title" = "zh_Refresh";
+
+//------- EndPointConfiguration
+"DeprecatedVersionAlertTitle" = "zh_Update Available";
+"DeprecatedVersionAlertMessage" = "zh_There is a newer version of the application available.Please update to the latest version";
+"DeprecatedStatus" = "zh_Deprecated"; 
+
+// New User registration
+"Salutation_Mr" = "zh_Mr.";
+"Salutation_Ms" = "zh_Ms.";
+"Salutation_Mrs" =  "zh_Mrs.";
+"Salutation_Miss" =  "zh_Miss.";
+"Salutation_Dr" =  "zh_Dr.";
+"Salutation_Mr_Mrs" = "zh_Mr. & Mrs.";
+
+"Gender_Male" = "zh_Male";
+"Gender_Female" = "zh_Female";
+"Gender_No_answer" = "No answer";
+
+
+// ---- Button Title(Text) -------
+"kCheckAvailability_Title" = "zh_Check Availability";
+
+//GolfCourseBookingVC
+"kFaultTitle" = "zh_Fault";
+
+//DateSelectinVC
+"kTimeTitle" = "zh_Time";
+
+"kSelect_Title" = "zh_Select";
+"kDone_Title" = "zh_Done";
+"kBookAnotherService_Title" = "zh_Book Another Service";
+"kViewItinerary_Title" = "zh_View Itinerary";
+
+
+"kCancel_Title" = "zh_Cancel";
+"kChangePassword_Title" = "zh_Change Password";
+"kForgotPassword_Title" = "zh_Forgot Password";
+"kLogOut_Title" = "zh_Log Out";
+"kSignIn_Title" = "zh_Sign In";
+"kNewUSer_Title" = "zh_New User";
+"kChange_Title" = "zh_Change";
+"kReset_Title" = "zh_Reset";
+"kVerify_Title" = "zh_Verify";
+
+// Project Tree
+"kMap" = "zh_Map";
+"kGallery" = "zh_Gallery";
+
+

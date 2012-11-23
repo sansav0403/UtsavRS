@@ -1,0 +1,500 @@
+/*
+ Localizable.strings
+ ResortSuite
+ 
+ Created by Cybage on 9/5/12.
+ Copyright (c) 2012 Cybage. All rights reserved.
+ */
+
+
+
+//---------- RSTeaserBuildConstant --------------------------//
+//----- Hotel -----//
+//Application Header Name
+"Hotel_Application_Title"  =   "Brentwood Bay Resort";
+
+//My Hotel Home Screen Buttons Name
+"IF_Club/Hotel_Two_Buttons_Hotel_Button1_Title2"  =   "";
+"Hotel_Button1_Title1"	=   "Mon";
+"Hotel_Button1_Title2"  =   "Hôtel";
+"Hotel_Button2_Title2"  =   "Itinéraire";
+"Hotel_Button3_Title2" = "Groupe";
+
+//Hotel Information
+"Hotel_Map_Address" = "fr_849 Verdier Avenue, Victoria, BC V8M 1C5";
+
+// ------ Club ------//
+//Application Header Name
+"Club_Application_Title" = "fr_Washington Athletic Club";
+
+//My Club Home Screen Buttons Name
+"Club_Button1_Title2" = "fr_Club";
+"Club_Button3_Title2" = "fr_Account";
+
+//Itinerary
+"Club_Dining_Title" = "Dining";
+"Club_SPA_Title" = "Spa";
+"Club_Athletics_Title" = "Athletics";
+
+//Club Information
+"Club_Map_Address" = "fr_1325 6th Ave. Seattle, WA 98101";
+
+// Club Images and Itinerary
+"Hotel_GOLF_Title" = "Golf";
+//My Itinerary Title :
+"Hotel_Transportation_Title" = "fr_Transportation";
+//---------------------------------------------------------------------//
+
+
+//---------- RSLabelConstant ----------------------------------------//
+// Home Page
+"RSHomeTabTitle" = "Maison";
+"RSMyHotelTabTitle" = "Mon Hôtel";
+"RSMyClubTabTitle"  = "Mon Club";
+
+"RSHotelSelfTabTitle" = "Soi";
+"RSClubItineraryTabTitle" = "Mon Itinéraire";
+
+"RSHotelMyGroupTabTitle" = "Mon Groupe";
+"RSClubMyAccountTabTitle" = "Mon Compte";
+
+"RSBookingTabTitle" = "Réserver";
+"RSStaticTabTitle" = "Mon Statique";
+
+"RsGallaryTitle" = "Galerie";
+
+//--------------------------------------------------------------------//
+//Pop up Error messages
+"POPUP_Sign_Out" = "Déconnexion";
+"POPUP_Sign_Out_Text" = "Vulez-vous vous déconnecter?";
+"POPUP_Offline_Mode" = "En mode hors connexion";
+"POPUP_Offline_Content" = "Impossible de détecter une connexion réseau.Le contenu hors connexion peut être mis à jour.";
+"POPUP_Offline_Content_Unavailable" = "Impossible de détecter une connexion réseau.Contenu nin disponible en mode hors connexion.";
+
+"POPUP_Meeting_Data_Unavailable" = "Vous n'avez pas aucune réunions de group à afficher.";
+
+
+"POPUP_Invalid_Email" = "Invalide adresse e-mail et/ou mot de passe";
+"POPUP_Invalid_Request" = "Requête non valide.";
+"POPUP_Invalid_GuestPin" = "fr_Invalid guest pin for PMSFolioId"; ///Updated on 1-Nov-12
+"POPUP_Invalid_FolioId" = "fr_Invalid PMSFolioId"; ///updated on 1-Nov-12
+"POPUP_Start_End_Date" = "Date de fin doit être supérieure à la date de début.";
+"POPUP_Enter_Date" = "Veuillez entrer la date de début ot/et date de fin.";
+"POPUP_No_Bookings" = "Il n'y a aucune réservation pour la plage de dates sélectionnée.";
+"POPUP_Server_Unavailable" = "Serveur non disponible. S'il vous plaît réessayer plus tard.";
+"POPUP_No_Network" = "Aucun réseau disponible.";
+"POPUP_Select_Service" = "Veuillez d'abord sélectionner un service.";
+"POPUP_Select_Date" = "Veuillez d'abord sélectionner un date.";
+"POPUP_Activity_Data_Unavailable" = "Aucune donnée disponible pour l'activité demandée.";
+"POPUP_Service_Unavailable" = "Service demandé n'est pas disponible. Veuillez sélectionner un autre jour ou heure.";
+"POPUP_Class_Already_Booked" = "Vous êtes déjà réservée pour une classe ou un service au cours de la date et l'heure demandée.  Veillez sélectionner une autre date et/ou heure.";
+"POPUP_Change_Search" = "Aucun rendez-vous disponibles. Modifiez vos critères de recherche et essayez à nouveau.";
+
+"POPUP_Tee_Times" = "Aucun départs disponibles.";
+"POPUP_Tee_Times_Text" = "Veuillez sélectionner une autre heure.";
+
+"POPUP_Booking_Unavailable" = "Vous n'avez aucune réservation pour afficher.";
+
+
+"kPOPUP_Guarantee_Required" = "Nous ne pouvons pas terminer votre réservation en ce moment parce que votre compte n'est pas configuré avec une garantie valide. Contactez-nous afin que nous pussions mettre à jour votre compte.";
+
+//----------------------------------------------//
+// ------- Account Views Title
+"AccountList_ViewTilte" = "Liste de compte";
+"Club_MyActivity" = "Mon Activité";
+"ChargeDetail_ViewTilte" = "Modifier le Détail";
+"BillingPeriod_ViewTilte" = "Périodes de Facturation";
+"BillingPeriod_Current" = "Courant";
+"BillingPeriod_Last" = "Dernière";
+"BillingPeriod_Previous" = "Précédent";
+
+"StatementOptions_ViewTilte" = "Options de Facturation";
+"PreviousBilling_ViewTilte" = "Périodes de Facturation Antérieures";
+"Club_ViewProfile" = "Voir le Profil";
+"Club_ViewStatement" = "Voir la Déclaration";
+
+"Club_Profile" = "Profil";
+
+"Club_Summary" = "Résumé";
+"Club_Charges" = "Frais";
+"Club_Payments" = "Paiements";
+
+
+//Summary page screen text
+"AccountSummaryHeader " = "Sommaire des Comptes";
+"AccountAgedBalanceHeader" = "Résumé Balance Âgée";
+
+"AccountNumber" = "# de Compte:";
+"AccountType" = "Type de Compte:";
+"AccountQwner" = "Titulaire du Compte:";
+"AccountMemberShipCount" = "# de Membre:";
+"AccountMemberShipID" = "# de Membre:";
+"AccountMemberShipLevel" = "fr_Member Level:";
+
+"AccountStatementperiod" = "Période de Déclaration:";
+"AccountpreviousBalance" = "Solde Précédent:";
+"AccountPayments" = "Paiements:";
+"AccountNewCharges" = "Nouvelles Accusations:";
+"AccountBalance" = "Solde du Compte:";
+
+"AccountCurrentBalance" = "Solde Courant:";
+"AccountCurrent30dayBalance" = "30 Solde du Jour:";
+"AccountCurrent60dayBalance" = "60 Solde du Jour:";
+"AccountCurrent90dayBalance" = "90 Solde du Jour:";
+
+//profile screen
+
+"AccountDetailHeader" = "Détails du Compte";
+"CurrentMembershipHeader" = "Adhésions Actuelles";
+"AccountCustomerHeader" = "Clients Grands Comptes";
+
+
+"AccountAddressStaticText" = "Adresse:";
+"AccountPhoneStaticText" = "Téléphone:";
+
+
+"MembershipType" = "Type:";
+"MembershipName" = "Membre:";
+"MembershipStatus" = "Statut:";
+"MembershipEffectiveDate" = "Date d'effet:";
+"MembershipExpiryDate" = "Date d'expiration:";
+
+"AccountName" = "Nom:";
+
+
+//charge and payment
+"Charge_PaymentAmountTitle" = "Montant";
+"ChargeDescriptionTitle" = "Description";
+"PaymentTypeTitle" = "Type de Paiement";
+
+"TotalChargeText" = "Total des Frais";
+"TotalPaymentText" = "Paiement Total";
+
+//account statement option labels
+"AccOption_Chargesection_Title" = "Frais de Compte";
+"AccOption_Paymentsection_Title" = "Compte des Paiements";
+
+"kNoMemberShipForGuest_Title" = "Aucun abonnement trouvé pour le client.";
+
+//----------------------------------------------//
+// ------ My Itinerary/Group Views Title
+
+"AllFutureBooking_CellTitle" = "Toutes les Réservations Futures";
+"SpecificDate_CellTitle" = "Dates Précises";
+"SelectDates_ViewTitle" = "Choisissez la Date";
+"SelectDuration_viewTitle" = "Sélectionnez la Durée";
+
+"ItineraryCategory_ByDate" = "Par Date";
+"ItineraryCategory_ByCategory" = "Par Catégorie ";
+"ItineraryCategory_ByAll" = "Tous";
+//------- My Group Views Title
+
+//Duration selection in group and Itinerary
+"DurationSelection_Start" = "Commence";
+"DurationSelection_Ends" = "Fin";
+//Itinerary desccription view labels
+"Hotel_Reservation" = "Réservation:";
+"Hotel_Arival_Date" = "Date d'Arrivée:";
+"Hotel_Departure_Date" = "Date de Départ:";
+"Hotel_Total_Guest" = "Total Invités:";
+"Hotel_Room_Number" = "Numéro de Chambre:";
+
+"Spa_Location" = "Emplacement:";
+"Spa_Service" = "Service:";
+"Spa_Time" = "Heure:";
+"Spa_Performed_By" = "Interprété Par:";
+"Spa_Room" = "Chambre:";
+"Spa_Description" = "Description:";
+"Spa_Client_instruction" = "Instructions à \nla Cliente:";
+
+"Golf_Course" = "Cours:";
+"Golf_Tee_Time" = "Temps de Départ:";
+
+"Dining_Venue" = "Lieux de Rendez-vous:";
+"Dining_Time" = "Heure:";
+"Dining_detail" = "Détail:";
+
+"Transportation_Departure_location" = "Lieu de Départ:";
+"Transportation_Departure_Time" = "Heure de Départ:";
+"Transportation_Arrival_Location" = "Lieu d'Arrivée:";
+"Transportation_Arrival_Time" = "Heure d'Arrivée:";
+//group Table
+"GroupTableViewTitle" = "Événements de Groupe";
+//event description view
+"GroupEventDesc_viewTitle" = "Détails de l'Événement ";
+
+"GroupEventDesc_EventLbl" = "Événement";
+"GroupEventDesc_LocationLbl" = "Emplacement";
+
+
+//----------------------------------------------//
+
+//--- Booking Views Title
+"NoBookingTitle" = "";
+"NoBookingMessage" = "Nous n'acceptons pas présentement les réservations mobile en ce moment.";
+
+"Book_ViewTilte" = "Menu de Réservation";
+"GolfLocation_ViewTilte" = "Emplacements de Golf";
+"GolfCourse_ViewTilte" = "Parcours de Golf";
+"BookGolf_ViewTilte" = "Réserver Golf";
+"SpaAvailableTimes" = "Heures Disponibles";
+//
+"ClassActivityCellText" = "Classe/Activité";
+//spa booking form cell text
+"SpaBookingFormService" = "Service";
+
+"SpaBookingFormStafGender" = "Sexe Préféré de Personnel";
+"SpaBookingFormStaff" = "Personnel Préféré";
+"SpaBookingNoPref" = "Pas de Préférence";
+
+
+//Spa service table view
+"SpaServiceTable_HeaderTitle" = "Résultats de la Recherche";
+
+
+//Class service table view
+"ClassServiceTableCol_StartTimeLbl" = "Heure de Début";
+"ClassServiceTableCol_PriceLbl" = "Prix";
+"ClassServiceTableCol_TimeLbl" = "Heure (min)";
+//Spa Service Desc View labels
+
+"SpaServiceDesc_DurationLbl" = "Durée (min) :";
+"SpaServiceDesc_PriceLbl" = "Prix:";
+
+//Class Service Desc View Labels
+"ClassServiceDesc_NoOfClassLbl" = "# de Classes:";
+"ClassServiceDesc_StartTimeLbl" = "Heure de Début:";
+
+//spa service confirmation view text
+"SpaConfirmationView_Service" = "Service:";
+"SpaConfirmationView_Date" = "Date:";
+"SpaConfirmationView_Time" = "Heure:";
+"SpaConfirmationView_Duration" = "Durée (min):";
+"SpaConfirmationView_Price" = "Prix:";
+"SpaConfirmationView_Description" = "Description:";
+//Class Service Confirmation view text
+"ClassConfirmationView_Service" = "Classe/Activité:";
+"ClassConfirmationView_Date" = "Date :";
+
+//Golf Booking Form
+"GolfBookingFormPrefTeeTime" = "Temps de Départ Préféré";
+"GolfBookingFormNoOfPlayer" = "Nombre de Joueurs";
+"ConfirmGolfBookDetailheader" = "Confirmer les Détails et Réserver Maintenant";
+"kBook_Title" = "Réserver";
+"KBookNow_Title" = "Réserver Maintenant";
+"kDateTitle" = "Date";
+"kTeeTimeTitle" = "Heure de Départ";
+"kOf_Players_Title" = "# de Joueurs";
+"kPricePerPlayerTitle" = "Prix Par Joueur";
+
+//
+"ConfirmBooking_ViewTilte" = "Confirmer la Réservation";
+"pleaseSelectText" = "S'il Vous Plaît Sélectionner";
+"searchResultText" = "Résultats de la Recherche";
+"SpaAvailableTimeText" = "La tranche de temps n'est pas disponible, s'il vous plaît sélectionnez un des temps alternatifs suivants.";
+//golf select players
+"NoOfPlayerCellText" = "# de Joueurs";
+//----------------------------------------------//
+//-------- Login action sheet view
+"VERIFY_EMAIL_VIEW_TITLE" = "Vérifier E-mail";
+
+"kEnterNewPassword_TITLE" = "fr_enter new Password";
+"kEnterPassword_TITLE" = "fr_enter Password";
+
+//----------------------------------------------//
+//-----user registration screen alert messages
+
+"ALERT_OK_TITLE" = "OK";
+
+// Validation variables
+
+"alertTitleForInvalidText" = "Entrer des données valides";
+"alertMessageForInvalidText" = "L'Espace ne peut pas être vide";
+
+"alertTitleForEmptyGender" = "";
+"alertMessageForEmptyGender" = "S'il vous plaît entrer votre sexe";
+
+"alertTitleForValidSalutation" = "";
+"alertMessageForValidSalutation" = "Veillez entrer une salutation appropriée";
+
+"alertTitleForInvalidEmailAddress" = "Adresse e-mail invalide";
+"alertMessageForInvalidEmailAddress" = "Entrez une adresse email valide";
+
+"alertTitleForUnmatchedEmail" = "Adresse e-mail inégalée";
+"alertMessageForUnmatchedEmail" = "Entrez la même adresse email pour confirmation";
+
+"alertTitleForImproperPassord" = "Mot de passe invalide";
+"alertMessageForImproperPassord" = "Mot de passe doit comporter au moins %d caractères";
+
+"alertTitleForUnmatchedPassword" = "Mot de passe n'est pas confirmé";
+"alertMessageForUnmatchedPassword" = "Entrez le même mot de passe comme ci-dessus";
+
+"alertTitleForAtleastOnePhoneNumber" = "Numéro de Contact";
+"alertMessageForAtleastOnePhoneNumber" = "Veuillez entrer au moins un numéro de contact";
+
+"alertMessageForPassWordResset" = "Vous recevrez un email avec votre nouveau mot de passe.";
+
+"alertTitleForUserCreated" = "";
+"alertMessageForUserCreated" = "fVotre compte a été créé avec succès.";
+
+//-------- MAPS
+"MapView_title" = "Carte";
+"Map_infoBUtton_title" = "Info";
+
+//------- Booking confirmation mesasge based on Guaranteed
+"GuaranteedBookingMessage" = "Réservation confirmée - Votre réservation est réussie. Pour faire une autre réservation, s'il vous plaît choisir un autrepar le bas:";
+"UnGuaranteedBookingMessage" = "Une réservation provisoire a été déposée pour vous. Pour confirmer votre réservation veuillez nous contacter pour nous fournir vos informations de carte de crédit pour garantir votre réservation.";
+
+
+//RSMGMainScreenViewController
+"kAllEvents_Title" = "Tous les Événements";
+
+//RSMainScreenButton
+"kStatic_Title" = "Statique";
+
+//forgot password
+"kTypeEmailAddress_Title" = "Tapez votre adresse courriel";
+
+//Change Password
+"kCurrentPassword_Title" = "Mot de Passe Courant:";
+"kNewPassword_Title" = "Nouveau Mot de Passe:";
+"kConfirmPassword_Title" = "Confirmer Mot de Passe:";
+
+//EmailVerification
+"kEmailRegisteredVerification_Title" = "Vérifier si adresse email est déjà enregistré";
+"kEmail_address_Title" = "Adresse e-mail:";
+
+//New User Form
+"kMandatory_Title" = "Obligatoire *";
+"kWarning_Title" = "Mise en Garde";
+"kAlertForInvalidPhoneNumber__Message" = "Entrez le numéro de téléphone correct.";
+
+
+// First Section
+"kGender_Title" = "fr_Gender";
+"kSalutaion_Title" = "fr_Salutation";
+"kFirstName_Title" = "fr_First Name";
+"kLastName_Title" = "fr_Last Name";
+"kEmail_Title" = "fr_Email";
+"kConfirmEmail_Title" = "fr_Confirm Email";
+"kPassword_Title" = "fr_Password";
+"kDob_Title" = "fr_Date Of Birth:";
+
+"kGender_PlaceHolder_Title" = "Sexe";
+"kSalutaion_PlaceHolder_Title" = "M. ou Mlle. Ou Mme";
+"kEmail_PlaceHolder_Title" = "Email";
+"kConfirmEmail_PlaceHolder_Title" = "Confirmer Email";
+"kDob_PlaceHolder_Title" = "dd-MMMM-AAAA";
+
+//--- Second section header
+"kSecondSectionHeader_Title" = "Sélectionnez le numéro de téléphone principal";
+
+// Second Section
+"kHomePhone_Title" = "Téléphone à la Maison";
+"kWorkPhone_Title" = "Téléphone (Bureau)";
+"kWorkPhExtension_Title" = "Extension";
+"kOtherPhone_Title" = "Autre Téléphone";
+
+"kWorkPhExtension_PlaceHolder_Title" = "Extension";
+
+//--- Third section header
+"kThirdSectionHeader_Title" = "Adresse (Faculatif)";
+
+// Third Section
+"kAddress1_Title" = "Adresse 1";
+"kAddress2_Title" = "Adresse 2";
+"kCity_Title" = "Ville";
+"kState_Title" = "État/Province";
+"kCountry_Title" = "Pays";
+"kZip_Title" = "Zip/Code Postal";
+
+"kState_PlaceHolder_Title" = "État/Province";
+"kZip_PlaceHolder_Title" = "Zip/Code Postal";
+
+//-- Fourth Section Header
+"kOtherAddressOptional_Title" = "Autre Adresse (Faculatif)";
+
+
+// Authentication
+"kReservationNo_Title" = "Numéro de Réservation";
+"kGuestPin_Title" = "fr_GuestPin"; //updated on 1-Nov-12
+
+//RSSpaClassCategoryVC
+"kSelect_the_Title" = "Sélectionnez le";
+"kCategory_Title" = "Catégorie";
+
+//RSSpaConfirmationVC
+"kSelectAppointment_Title" = "Sélectionnez un Rendez-vous";
+"kTimeSlotNotAvailabel_Message" = "La tranche de temps n'est pas disponible, s'il vous plaît sélectionnez un des temps alternatifs suivants.";
+"kStaffName_Title" = "Nom de Personnel";
+"kExceptionWhileBooking_Message" = "Exception lors de la réservation";
+
+//RSMainViewController
+"kNoNetwork_Title" = "Pas de réseau";
+
+//MyAccount
+"kNoDescription_Title" = "frno description";
+"kMembership_Title" = "Adhésion";
+"kYourExpences_Title" = "vos dépenses sont";
+"kForm_Title" = "Formulaire";
+"kTo_Small_Title" = "à";
+"kItemsInFolio_Title" = "Éléments de Folio";
+
+
+
+//------- RSConstant -------------------------------------------------//
+"BackButtonTitle" = "Arrière";
+
+"DataNotAvailable" = "<Données non disponibles>";
+"NONE" = "Aucun";
+
+"Refresh_Title" = "Rafraîchir";
+
+//------- EndPointConfiguration
+"DeprecatedVersionAlertTitle" = "Mise à Jour Disponible";
+"DeprecatedVersionAlertMessage" = "Il existe une version plus récente de l'application. S'il vous plaît mettre à jour à la version plus récente.";
+"DeprecatedStatus" = "Deprecated";
+
+// New User registration
+"Salutation_Mr" = "M.";
+"Salutation_Ms" = "Mme.";
+"Salutation_Mrs" =  "Mme.";
+"Salutation_Miss" =  "Mlle.";
+"Salutation_Dr" =  "Dr.";
+"Salutation_Mr_Mrs" = "M. & Mme.";
+
+"Gender_Male" = "Mâle";
+"Gender_Female" = "Femelle";
+"Gender_No_answer" = "Pas de Réponse";
+
+
+// ---- Button Title(Text) -------
+"kCheckAvailability_Title" = "Vérifier la Disponibilité";
+
+//GolfCourseBookingVC
+"kFaultTitle" = "Faute";
+
+//DateSelectinVC
+"kTimeTitle" = "Heure";
+
+"kSelect_Title" = "Sélectionnez";
+"kDone_Title" = "Fini";
+"kBookAnotherService_Title" = "Réserver un Autre Service";
+"kViewItinerary_Title" = "Vue Itinéraire";
+
+
+"kCancel_Title" = "Annuler";
+"kChangePassword_Title" = "Changer Mot de Passe";
+"kForgotPassword_Title" = "Mot de Passe Oublié";
+"kLogOut_Title" = "Déconnexion";
+"kSignIn_Title" = "Connexion";
+"kNewUSer_Title" = "Nouvel Utilisateur";
+"kChange_Title" = "Changer";
+"kReset_Title" = "Remettre";
+"kVerify_Title" = "Vérifier";
+
+// Project Tree
+"kMap" = "Carte";
+"kGallery" = "Galerie";
+
+
